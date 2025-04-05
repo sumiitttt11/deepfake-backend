@@ -31,8 +31,8 @@ git clone https://github.com/sumiitttt11/Image_Deepfake-detection
 ```
 cd deepfake
 ```
-**⚛️Frontend Setup**
-**For Frontend**
+**⚛️For Frontend (Check the below link)**
+
 ```bash
 https://github.com/sumiitttt11/deepfake-frontend
 ```
