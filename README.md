@@ -40,7 +40,7 @@ https://github.com/sumiitttt11/deepfake-frontend
 ```bash
 cd backend
 pip install -r requirements.txt    # Install dependencies
-uvicorn main:app --reload          # Run the backend
+uvicorn app.main:app --reload          # Run the backend
 ```
 #### The backend will run at http://localhost:8000 and frontend at http://localhost:3000.
 
